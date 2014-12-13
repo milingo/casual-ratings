@@ -12,3 +12,7 @@
 hs_err_pid*
 
 .idea/
+*casual-ratings.iml
+
+rating-core/src/main/resources/com/rating/rotten.properties
+rating-core/src/main/resources/com/rating/tmdb.properties
